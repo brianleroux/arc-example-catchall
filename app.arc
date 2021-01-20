@@ -2,6 +2,7 @@
 begin-app
 
 @http
+any /*
 post /graphql
 
 @tables
