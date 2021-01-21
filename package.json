@@ -6,7 +6,8 @@
   },
   "dependencies": {
     "@architect/sandbox": "^3.3",
-    "@begin/data": "",
+    "@begin/data": "latest",
+    "tiny-json-http":"latest",
     "cross-env": "^7.0.3"
   }
 }
